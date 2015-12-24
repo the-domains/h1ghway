@@ -1,0 +1,28 @@
+name: h1ghway
+favicon: null
+layout_spectrum: 0.33510019443929195
+typography_spectrum: 0.5292086806148291
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2622937166597694
+  lightness: 0.8507624545600265
+  saturation: 0.897033462068066
+  rhythmicContrast: 0.4550274640787393
+purpose: []
